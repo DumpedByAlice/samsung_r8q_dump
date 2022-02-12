@@ -1,0 +1,6 @@
+<permissions>
+    <privapp-permissions package="com.qualcomm.qti.services.systemhelper">
+        <permission name="android.permission.MANAGE_FINGERPRINT"/>
+    </privapp-permissions>
+</permissions>
+
