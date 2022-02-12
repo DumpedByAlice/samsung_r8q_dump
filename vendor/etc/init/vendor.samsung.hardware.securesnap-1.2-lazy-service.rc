@@ -1,0 +1,9 @@
+service snapsecserv /vendor/bin/hw/vendor.samsung.hardware.securesnap@1.2-service
+    interface vendor.samsung.hardware.snap@1.0::ISehSnap secsnap
+    interface vendor.samsung.hardware.snap@1.1::ISehSnap secsnap
+    interface vendor.samsung.hardware.snap@1.2::ISehSnap secsnap
+    class hal
+    user system
+    group system
+    oneshot
+    disabled
