@@ -1,0 +1,31 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.HT.5.3-00611-SM8250-1", 
+        "aop": "AOP.HO.2.0-00181-SM8250_E-1.308041.1.319108.1", 
+        "apps": "LA.UM.8.12.c1-08600-sm8250.0-1", 
+        "boot": "BOOT.XF.3.2-00278-SM8250-2", 
+        "btfm": "BTFM.HST.2.0.0.c3.1-00014-QCACHROMZ-1", 
+        "btfm_hsp": "BTFM.HSP.1.0.0.c1-00172-QCAHSPROMZ-1", 
+        "cdsp": "CDSP.HT.2.3-00595-SM8250-3.452927.1", 
+        "common": "SM8250_SDX55.LA_TN.1-0-1_2-0.c1-00045-STD.PROD-1", 
+        "cvp": "CVP.VPU.1.0-00046-PROD-1", 
+        "glue": "GLUE.SM8250_LA_SDX55_TN.1.01-00318-NOOP_TEST-1", 
+        "npu": "NPU.FW.2.0-00181-SM8250_NPU_PACK-1", 
+        "slpi": "SLPI.HY.3.0-00260-SM8250AZL-1.415897.1.416236.1", 
+        "slpi_spu": "SLPI.HY.3.0-00178-SM8250AZL-1", 
+        "spss": "SPSS.A1.1.3-00079-SM8250AAAAANAZS-1", 
+        "tz": ">TZ.XF.5.8-00253-SM8250AAAAANAZT-1.431611.1", 
+        "tzapps": "TZ.APPS.1.8-00037-SM8250AAAAANAZT-1", 
+        "video": "VIDEO.VPU.1.0-00070-PROD-1", 
+        "wapi": "WLAN_ADDON.HL.1.0-00047-CNSS_RMZ_WAPI-1", 
+        "wigig": "WIGIG.TLN.7.8-00008-WIGIGTLNZ-1", 
+        "wlan_hsp": "WLAN.HSP.1.0-01679-QCAHSPSWPL_V1_SILICONZ-1", 
+        "wlan_hst": "WLAN.HST.1.0.1.r1-00504-QCAHSTSWPL_SILICONZ-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SM8250_SDX55.LA_TN.1-0-1_2-0.c1-00045-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2022-01-11 13:44:03"
+    }, 
+    "Version": "1.0"
+}
